@@ -1,0 +1,88 @@
+body {
+    background: #C9D6FF;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #E2E2E2, #C9D6FF);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #E2E2E2, #C9D6FF); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    font-family: 'Nunito Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Mono', monospace;
+}
+
+.navbar-brand {
+    font-size: 75px;
+}
+.navbar {
+    font-size: 30px;
+    
+}
+.header-content-left img {
+    width: 500px;
+    height: 500px;
+}
+
+.header-content-right h1{
+     font-size: 55px;
+}
+
+.header-content-right p{
+    text-align: justify;
+   
+}
+
+#Estudios {
+    background: #f1f1f1;
+    padding: 50px 0 30px 0;
+    text-align: center;
+    margin-top: 40px;
+}
+
+#Estudios p{
+    text-align: justify;
+    font-size: 25px;
+}
+
+#Estudios img {
+    object-fit: cover;
+    width: 250px;
+    height: 250px;
+    
+}
+#Experiencia_Laboral {
+    background: #f1f1f1;
+    padding: 50px 0 30px 0;
+    text-align: center;
+    margin-top: 40px;
+}
+
+#Experiencia_Laboral p{
+    text-align: justify;
+    font-size: 25px;
+}
+
+#Experiencia_Laboral img {
+    object-fit: cover;
+    width: 250px;
+    height: 250px;
+  
+}
+#Skills {
+    background: #f1f1f1;
+    padding: 50px 0 30px 0;
+    text-align: center;
+    margin-top: 40px;
+}
+
+#Skills p{
+    text-align: justify;
+    font-size: 25px;
+}
+
+#Skills img {
+    object-fit: cover;
+    width: 250px;
+    height: 250px;
+  
+}
+#Ing._Electrónica_Karen_Pech img {
+    object-fit: cover;
+    width: 300px;
+    height:300px;
